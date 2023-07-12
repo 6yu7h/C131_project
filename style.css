@@ -1,0 +1,21 @@
+.copy_right_footer {
+	
+	position: fixed;
+	color:white;
+	bottom: 0;
+	width: 100%;
+	background-color: lightgrey;
+	text-align: center;
+	line-height: 2;
+}
+body {
+	background-color:lightcoral;
+}
+#google, #mobilenet {
+	font-size:15px;
+	color:azure;
+}
+.mini_result {
+	font-size: 25px;
+	color:azure;
+}
